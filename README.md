@@ -22,3 +22,23 @@ A Python-based application that calculates stock investment, market value, profi
 
 ## Author
 Greeshma
+
+## Project 3: Automated File Organizer & Cleanup Utility
+
+A Python automation tool that organizes files into folders based on their extensions.
+
+### Features
+- Automatically sorts files into category folders.
+- Organizes documents, images, videos, archives, and code files.
+- Handles duplicate filenames and file errors.
+- Displays a summary of files moved.
+
+### Technologies Used
+- Python 3
+- OS Module
+- Shutil Module
+- Pathlib
+
+### Files Included
+- organizer.py - Automated file organizer
+
